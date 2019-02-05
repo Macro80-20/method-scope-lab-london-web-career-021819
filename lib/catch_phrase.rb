@@ -1,3 +1,4 @@
 def catch_phrase(a)
-  puts a
+  r =a
+  puts r
 end
